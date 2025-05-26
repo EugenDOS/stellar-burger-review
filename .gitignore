@@ -3,5 +3,3 @@ node_modules
 .idea
 dist
 src/services
-cypress
-cypress.config.ts
